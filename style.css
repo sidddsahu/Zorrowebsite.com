@@ -14,6 +14,11 @@ body {
   width: 100%;
 }
 
+#main{
+  overflow-x:hidden;
+}
+
+
 body{
   overflow-x:hidden;
 }
