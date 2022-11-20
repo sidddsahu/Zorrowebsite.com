@@ -1,5 +1,10 @@
 @media(max-width: 500px){
    
+
+#main{
+   overflow-x: hidden;
+}
+
    nav{
     height: 10vh ;
     /* background-color: red; */
