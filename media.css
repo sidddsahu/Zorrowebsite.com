@@ -471,7 +471,7 @@ width: 90vw;
 
 .page8-box1 button{
    margin-left: 7vmax;
-   margin-right: 5vmax;
+   margin-right: 2vmax;
    margin-bottom: 2vmax;
 }
 
@@ -508,11 +508,12 @@ width: 90vw;
 
 .page9{
    overflow-x: hidden;
-   height: 70vh;
+   height: 60vh;
 }
 
 
 .page9-main{
+   margin-left: 5vmax;
    margin-top: 0vmax;
    width: 90vw;
    height: 30vh;
